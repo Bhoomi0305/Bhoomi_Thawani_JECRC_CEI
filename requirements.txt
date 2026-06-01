@@ -1,0 +1,16 @@
+# ==================================================
+# Tesla Deliveries Forecasting - Requirements
+# ==================================================
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.22.0
+
+# Data Visualization
+matplotlib>=3.5.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.6.0
+
+# Time Series Forecasting
+prophet>=1.1.0
